@@ -1,8 +1,11 @@
 # for Practice
 
-*.c #c 확장자를 가진 모든 파일
-client.* #클라이언트라는 이름을 가진 모든 확장자 파일
-credentials/** #이 디렉토리 안에 있는 모든 파일
+*.c 
+#c 확장자를 가진 모든 파일
+client.* 
+#클라이언트라는 이름을 가진 모든 확장자 파일
+credentials/** 
+#이 디렉토리 안에 있는 모든 파일
 
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,flask,jupyternotebooks,vim,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,python,flask,jupyternotebooks,vim,visualstudiocode
